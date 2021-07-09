@@ -1,0 +1,48 @@
+html {
+  padding-top: 20px;
+  background-image: url(../Block01/button_3.png);
+  background-repeat: no-repeat;
+  background-position: left top;
+}
+body {
+  width: 80%;
+  padding: 20px;
+  margin: 50px auto;
+  border-radius: 30px;
+  box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.5);
+  background-color: rgba(210, 180, 140, 0.8);
+}
+h1 {
+  font-style: italic;
+  color: #8b3a3a;
+  font-size: 4em;
+  margin: 0;
+}
+h2 {
+  color: #b11010;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2em;
+  border-bottom: 3px #ee0000 solid;
+  padding: 0 0 2px 60px;
+  margin: 0;
+}
+p {
+  font-size: 1.5em;
+  color: rgb(116, 15, 74);
+  line-height: 120%;
+  margin-top: 20px;
+  margin-left: 70px;
+}
+.info,
+blockquote {
+  color: #e64a4a;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.2em;
+  margin-left: 0;
+  margin-bottom: 25px;
+}
+blockquote {
+  font-size: 1.3em;
+  font-style: italic;
+}
